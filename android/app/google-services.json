@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495573603665",
+    "project_id": "project-chat-flutter-902ed",
+    "storage_bucket": "project-chat-flutter-902ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495573603665:android:c555b21af4386fbbd86f70",
+        "android_client_info": {
+          "package_name": "com.istianto.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495573603665-g9kv7kkc506ksk83p3c2riq7g1veut3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobBOt48yl9RcpynLOMMtYNqNr2s_QTiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495573603665-g9kv7kkc506ksk83p3c2riq7g1veut3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
